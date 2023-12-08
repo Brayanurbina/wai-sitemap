@@ -1,3 +1,4 @@
+![rta_logo](https://github.com/w3c/wai-sitemap/assets/90974119/ebb63012-51b2-4553-90e9-b48fc62b3aac)
 ---
 title: WAI Site Map
 lang: en
